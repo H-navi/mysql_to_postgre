@@ -1,7 +1,7 @@
 
-# Migrate from Postgre to Mysql Database
+# Migrate from Mysql to Postgre Database
 
-This tool can migrate data from postgre to mysql database with all values without defining them.
+This tool can migrate data from mysql to postgre database with all values without defining them.
 
 
 
