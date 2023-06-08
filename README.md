@@ -38,6 +38,6 @@ Run with xampp
   1. git clone https://github.com/H-navi/postgre_to_mysql.git
   2. cd postgre_to_mysql
   3. create idenctic table in postgre
-  4. open browser and type "localhost/postgre_to_mysql/index.php"
+  4. open browser and type "localhost/mysql_to_postgre/index.php"
 ```
     
