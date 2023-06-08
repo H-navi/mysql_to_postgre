@@ -35,9 +35,9 @@ $tables = array(
 Run with xampp
 
 ```bash
-  1. git clone https://github.com/H-navi/postgre_to_mysql.git
-  2. cd postgre_to_mysql
-  3. create idenctic table in postgre
+  1. git clone https://github.com/H-navi/mysql_to_postgre.git
+  2. cd mysql_to_postgre
+  3. create idenctic table in postgre first
   4. open browser and type "localhost/mysql_to_postgre/index.php"
 ```
     
